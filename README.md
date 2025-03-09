@@ -15,7 +15,7 @@ In the data cleaning phase, I first examined **missing values** and **duplicate 
 - **Handling Duplicate Records**
   - After checking the dataset, I found **no duplicate records**, so no further action was needed.
 
-  ## 2. SQL Data Queries
+## 2. SQL Data Queries
 
 In the SQL analysis phase, I performed several queries to analyze **average prices, the number of listings in different areas, and the highest-priced listings**.
 
@@ -46,7 +46,6 @@ To better understand the Airbnb market, I first calculated key statistics:
 
 These findings indicate that **Manhattan is significantly more expensive**, while **Bronx offers the most budget-friendly options**.
 
----
 
 ### **Price Distribution Analysis**
 I plotted the **Airbnb price distribution** to observe pricing trends:
@@ -55,7 +54,6 @@ I plotted the **Airbnb price distribution** to observe pricing trends:
 
 This suggests that **most Airbnb listings are within the affordable range**, while luxury listings above **$110** are relatively rare.
 
----
 
 ### **Price Comparison by Room Type**
 I created a **bar chart comparing the average prices of different room types**, and found:
@@ -65,7 +63,6 @@ I created a **bar chart comparing the average prices of different room types**, 
 
 These findings indicate that **renting an entire apartment is significantly more expensive**, while private and shared rooms offer more affordable options.
 
----
 
 ### **Geographic Distribution Analysis**
 A **scatter plot of Airbnb listings in NYC** reveals clear regional differences:
@@ -77,7 +74,6 @@ A **scatter plot of Airbnb listings in NYC** reveals clear regional differences:
 
 These insights show that **Brooklyn and Manhattan are the hotspots for Airbnb listings**, while **Staten Island has the least activity**.
 
----
 
 ## 4. Conclusion
 
@@ -100,7 +96,6 @@ Through this Airbnb data analysis, we identified key insights regarding **pricin
    - **Brooklyn and Manhattan dominate the Airbnb market**, with a significantly higher number of listings than other boroughs.
    - **Staten Island has the least Airbnb activity**, likely due to its remote location.
 
----
 
 ### **Business Implications**
 **For Airbnb Hosts: How to Price Listings?**
@@ -112,5 +107,3 @@ Through this Airbnb data analysis, we identified key insights regarding **pricin
 - **Long-term travelers or families may prefer entire apartments** for privacy, despite the higher cost.
 
 This data analysis provides **valuable insights for both Airbnb hosts and travelers**, offering a data-driven approach to pricing and accommodation selection.
-
----
