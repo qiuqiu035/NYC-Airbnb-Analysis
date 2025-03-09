@@ -2,6 +2,20 @@
 NYC Airbnb Data Analysis Report
 # NYC Airbnb Data Analysis Report
 
+## Dataset
+The dataset used in this analysis comes from [Kaggle: NYC Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).  
+
+- **Source**: Kaggle  
+- **File Name**: `AB_NYC_2019.csv`  
+- **Description**: This dataset contains Airbnb listings in New York City, including price, location, room type, and other details.  
+- **Download Instructions**:
+  1. Go to the [Kaggle dataset page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).
+  2. Click "Download".
+  3. Place the `AB_NYC_2019.csv` file in the `data/` directory before running the analysis.
+
+**Make sure to download the dataset before running the code!**
+
+
 ## 1. Data Cleaning
 In the data cleaning phase, I first examined **missing values** and **duplicate records** in the dataset.
 
